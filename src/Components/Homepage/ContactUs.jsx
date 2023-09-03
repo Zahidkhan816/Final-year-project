@@ -9,7 +9,7 @@ const ContactUs = () => {
             <div className="col-12 py-3">
               <div className="bg-holder bg-size" style={{ backgroundImage: 'url(assets/img/gallery/people.png)', backgroundPosition: 'top center', backgroundSize: 'contain' }}>
               </div>
-              <h1 className="text-center">APPOINTMENT</h1>
+              <h1 className="text-center">Register Your service</h1>
             </div>
           </div>
         </div>
@@ -19,7 +19,7 @@ const ContactUs = () => {
           <div className="row">
             <div className="bg-holder bg-size" style={{ backgroundImage: 'url(assets/img/gallery/dot-bg.png)', backgroundPosition: 'bottom right', backgroundSize: 'auto' }}>
             </div>
-            <div className="col-lg-6 z-index-2 mb-5"><img className="w-100" src="assets/img/gallery/appointment.png" alt="..." /></div>
+            <div className="col-lg-6 z-index-2 mb-5"><img className=" rounded w-100" src="assets/img/gallery/appointment.jpg" alt="..." /></div>
             <div className="col-lg-6 z-index-2">
               <form className="row g-3">
                 <div className="col-md-6">
@@ -49,7 +49,7 @@ const ContactUs = () => {
                 </div>
                 <div className="col-12">
                   <div className="d-grid">
-                    <button className="btn btn-primary rounded-pill" type="submit">Sign in</button>
+                    <button className="btn btn-primary rounded-pill" type="submit">Register</button>
                   </div>
                 </div>
               </form>

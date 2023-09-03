@@ -10,7 +10,7 @@ const Portfolio = () => {
           <div className="col-12 py-3">
             <div className="bg-holder bg-size" style={{backgroundImage: 'url(assets/img/gallery/doctors-us.png)', backgroundPosition: 'top center', backgroundSize: 'contain'}}>
             </div>
-            <h1 className="text-center">OUR DOCTORS</h1>
+            <h1 className="text-center">OUR Partners</h1>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@ const Portfolio = () => {
                     <div className="col-md-4 mb-8 mb-md-0">
                       <div className="card card-span h-100 shadow">
                         <div className="card-body d-flex flex-column flex-center py-5"><img src="assets/img/gallery/anita.png" width={128} alt="..." />
-                          <h5 className="mt-3">Anita Deshai</h5>
+                          <h5 className="mt-3">Jalal Sons </h5>
                           <p className="mb-0 fs-xxl-1">Pediatrics, Gochi Medicine</p>
                           <p className="text-600 mb-0">Florida, United States</p>
                           <p className="text-600 mb-4">10 years experience</p>
@@ -54,7 +54,7 @@ const Portfolio = () => {
                     <div className="col-md-4 mb-8 mb-md-0">
                       <div className="card card-span h-100 shadow">
                         <div className="card-body d-flex flex-column flex-center py-5"><img src="assets/img/gallery/leo-mario.png" width={128} alt="..." />
-                          <h5 className="mt-3">Leo Mario</h5>
+                          <h5 className="mt-3">JS Agency</h5>
                           <p className="mb-0 fs-xxl-1">Physiotherapy, FitCare</p>
                           <p className="text-600 mb-0">London, England</p>
                           <p className="text-600 mb-4">25 years experience</p>
@@ -71,7 +71,7 @@ const Portfolio = () => {
                     <div className="col-md-4 mb-8 mb-md-0">
                       <div className="card card-span h-100 shadow">
                         <div className="card-body d-flex flex-column flex-center py-5"><img src="assets/img/gallery/anita.png" width={128} alt="..." />
-                          <h5 className="mt-3">Anita Deshai</h5>
+                          <h5 className="mt-3">H&K Event Organizers</h5>
                           <p className="mb-0 fs-xxl-1">Pediatrics, Gochi Medicine</p>
                           <p className="text-600 mb-0">Florida, United States</p>
                           <p className="text-600 mb-4">10 years experience</p>

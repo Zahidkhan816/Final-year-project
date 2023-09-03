@@ -19,10 +19,10 @@ const AboutUs = () => {
         </div>
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-md-6 order-lg-1 mb-5 mb-lg-0"><img className="fit-cover rounded-circle w-100" src="assets/img/gallery/health-care.png" alt="..." /></div>
+            <div className="col-md-6 order-lg-1 mb-5 mb-lg-0"><img className="fit-cover rounded w-100" src="assets/img/gallery/health-care.jpg" alt="..." /></div>
             <div className="col-md-6 text-center text-md-start">
-              <h2 className="fw-bold mb-4">We are developing a healthcare <br className="d-none d-sm-block" />system around you</h2>
-              <p>We think that everyone should have easy access to excellent <br className="d-none d-sm-block" />healthcare. Our aim is to make the procedure as simple as <br className="d-none d-sm-block" />possible for our patients and to offer treatment no matter<br className="d-none d-sm-block" />where they are — in person or at their convenience. </p>
+              <h2 className="fw-bold mb-4">"We're dedicated to enhancing your events." <br className="d-none d-sm-block" />"Creating a remarkable event system around you."</h2>
+              <p>"We believe that everyone should have convenient access to exceptional event services. Our mission is to streamline the process for our clients, providing top-notch event solutions whether in person or at their convenience." <br className="d-none d-sm-block" /> Our mission is to streamline the process for our clients, providing top-notch event solutions whether in person or at their convenience."<br className="d-none d-sm-block" />possible for our patients and to offer treatment no matter<br className="d-none d-sm-block" />where they are — in person or at their convenience. </p>
               <div className="py-3">
                 <button className="btn btn-lg btn-outline-primary rounded-pill" href="#testimonials">Learn more </button>
               </div>
